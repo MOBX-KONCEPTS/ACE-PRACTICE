@@ -1,6 +1,8 @@
 #!/bin/bash
 
-# This script will add new users
+# Author: Matthew Obono
+
+# This script will add new user, assign password to user, add user to existing group and also display results.
 
 echo Please enter names of new user
 read names
