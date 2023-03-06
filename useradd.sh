@@ -28,5 +28,10 @@ echo You are all set. Congratulations!
 sleep 10
 
 sudo tail -3 /etc/passwd
+
 sudo tail -3 /etc/shadow
+
 sudo tail -10 /etc/group
+
+
+# Great job guys!
