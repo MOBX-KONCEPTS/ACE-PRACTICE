@@ -34,4 +34,6 @@ sudo tail -3 /etc/shadow
 sudo tail -10 /etc/group
 
 
+# This script works fine after testing. 
+
 # Great job guys!
